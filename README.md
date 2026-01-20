@@ -40,13 +40,4 @@ We focus on building lightweight, high-performance utility applications that res
 
 ---
 
-## 📦 Build Instructions
-
-1.  Clone the repository.
-2.  Run `flutter pub get`.
-3.  Set up your AdMob IDs in `AndroidManifest.xml` and `constants.dart`.
-4.  Run `flutter build appbundle --release`.
-
----
-
 © 2025 AppZen Studio. All rights reserved.
